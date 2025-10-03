@@ -42,9 +42,3 @@ AgriBot is an AI-powered chatbot designed to assist farmers by providing **real-
 * High-precision disease detection using ResNet.
 * Real-time support, reducing dependency on external experts.
 * Promotes sustainable farming practices.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
